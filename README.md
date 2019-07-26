@@ -2,12 +2,12 @@
 <p align="center"><img src="https://github.com/zhongqi1112/spider/blob/master/src/assets/spiderManPeace.png" alt="Spider logo"></p>
 
 <p align="center">
-  <a href="https://github.com/zhongqi1112/spider"><img src="https://img.shields.io/github/package-json/v/zhongqi1112/spider" alt="Version"></a>
-  <a href="https://github.com/zhongqi1112/spider"><img src="https://img.shields.io/github/repo-size/zhongqi1112/spider" alt="Repo size"></a>
+  <img src="https://img.shields.io/github/package-json/v/zhongqi1112/spider" alt="Version">
+  <img src="https://img.shields.io/github/repo-size/zhongqi1112/spider" alt="Repo size">
   <a href="https://github.com/zhongqi1112/spider/issues"><img src="https://img.shields.io/github/issues-raw/zhongqi1112/spider" alt="Open issues"></a>
-  <a href="https://zhongqi1112.github.io/spider/"><img src="https://img.shields.io/website/https/github.com/zhongqi1112/spider" alt="Website"></a>
+  <a href="https://zhongqi1112.github.io/spider"><img src="https://img.shields.io/website/https/github.com/zhongqi1112/spider" alt="Website"></a>
   <br>
-  <a href="https://github.com/zhongqi1112/spider"><img src="https://img.shields.io/github/package-json/keywords/zhongqi1112/spider" alt="Keywords"></a>
+  <img src="https://img.shields.io/github/package-json/keywords/zhongqi1112/spider" alt="Keywords">
 </p>
 
 <h2 align="center">Supporting Spider (Man)</h2>
@@ -25,7 +25,7 @@ Spider (Man) is a [VueJs](https://vuejs.org/) project to redesign [Udacity](http
 | [vue-router]          | [![vue-router-status]][vue-router-package] | Single-page Application Routing |
 | [vuetify]                | [![vuetify-status]][vuetify-package] | Material Design Component Framework |
 | [vis]          | [![vis-status]][vis-package] | Dynamic Browser Based Visualization Library |
-| [yt-player] | [![yt-player-status]][yt-player-package] | Embed YouTube video |
+| [yt-player] | [![yt-player-status]][yt-player-package] | Embed YouTube Video |
 | [lodash]             | [![lodash-status]][lodash-package] | JavaScript Utility Library |
 
 [vue]: https://vuejs.org
@@ -36,7 +36,7 @@ Spider (Man) is a [VueJs](https://vuejs.org/) project to redesign [Udacity](http
 [lodash]: https://lodash.com
 
 [vue-status]: https://img.shields.io/npm/v/vue
-[vue-router-status]: https://img.shields.io/npm/v/vue-router.svg
+[vue-router-status]: https://img.shields.io/npm/v/vue-router
 [vuetify-status]: https://img.shields.io/npm/v/vuetify
 [vis-status]: https://img.shields.io/npm/v/vis
 [yt-player-status]: https://img.shields.io/npm/v/yt-player
