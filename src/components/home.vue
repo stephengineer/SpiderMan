@@ -3,10 +3,10 @@
     <!-- Todo: this container should be removed because I add this instruction page to intruduce project -->
     <v-container v-show="homePage">
       <v-layout align-center justify-center column>
-        <span style="color: dodgerblue; font-size: 70px;"> Welcome to Spider Man </span>
+        <span style="color: dodgerblue; font-size: 70px;">{{welcomeLabel}}</span>
         <v-img src="../assets/spiderManPeace.png" class="ma-10"></v-img>
         <v-btn x-large dark rounded color="primary" minWidth=300 minHeight=60 elevation=24 class="mb-10"
-          @click="homePage=!homePage, enterButtonLabel='Continue'">{{enterButtonLabel}}
+          @click="homePage=!homePage, enterButtonLabel='Continue', welcomeLabel='Welcome Back Home'">{{enterButtonLabel}}
         </v-btn>
         <a href="https://github.com/zhongqi1112/spider"><img alt="GitHub stars" src="https://img.shields.io/github/stars/zhongqi1112/spider?style=social"></a>
         <v-flex class="mt-1">
@@ -153,6 +153,7 @@ export default {
     })
   },
   data: () => ({
+    welcomeLabel: 'Welcome to Spider Man',
     enterButtonLabel: 'Start',
     homePage: true,
     sidePanel: true,
