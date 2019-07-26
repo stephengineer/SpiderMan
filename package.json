@@ -1,7 +1,12 @@
 {
   "name": "spider",
   "version": "1.0.0",
-  "private": true,
+  "description": "Spider (Man) is a VueJs project to redesign MOOC(Udacity) learning screen for HCI final project.",
+  "keywords": [
+    "HCI",
+    "MOOC",
+    "VueJs"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

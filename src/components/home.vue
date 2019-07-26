@@ -6,12 +6,12 @@
         <span style="color: dodgerblue; font-size: 70px;"> Welcome to Spider Man </span>
         <v-img src="../assets/spiderManPeace.png" class="ma-10"></v-img>
         <v-btn x-large dark rounded color="primary" minWidth=300 minHeight=60 elevation=24 class="mb-10"
-          @click="homePage=!homePage, enroll='Continue'">{{enroll}}
+          @click="homePage=!homePage, enterButtonLabel='Continue'">{{enterButtonLabel}}
         </v-btn>
-        <flex>
-          <label> Design by Stephen Wang </label>
-        </flex>
         <a href="https://github.com/zhongqi1112/spider"><img alt="GitHub stars" src="https://img.shields.io/github/stars/zhongqi1112/spider?style=social"></a>
+        <v-flex class="mt-1">
+          <label><a href="https://github.com/zhongqi1112">Stephen Wang</a></label>
+        </v-flex>
       </v-layout>
     </v-container>
     <v-container fluid grid-list-md v-show="!homePage" class="pa-0">
@@ -153,7 +153,7 @@ export default {
     })
   },
   data: () => ({
-    enroll: 'Start',
+    enterButtonLabel: 'Start',
     homePage: true,
     sidePanel: true,
     lessonTitle: '',
