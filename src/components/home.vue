@@ -11,6 +11,7 @@
         <flex>
           <label> Design by Stephen Wang </label>
         </flex>
+        <a href="https://github.com/zhongqi1112/spider"><img alt="GitHub stars" src="https://img.shields.io/github/stars/zhongqi1112/spider?style=social"></a>
       </v-layout>
     </v-container>
     <v-container fluid grid-list-md v-show="!homePage" class="pa-0">
@@ -74,7 +75,7 @@
             <v-tooltip left>
               <template v-slot:activator="{ on }">
                 <v-flex xs2>
-                  <v-btn text target="_blank" v-on="on" href="https://github.ms.northgrum.com/StephenZWang">
+                  <v-btn text target="_blank" v-on="on" href="https://github.com/zhongqi1112">
                     <span class="mr-2" style="color: dodgerblue;">Send Feedback</span>
                   </v-btn>
                 </v-flex>
@@ -152,7 +153,7 @@ export default {
     })
   },
   data: () => ({
-    enroll: 'Enroll',
+    enroll: 'Start',
     homePage: true,
     sidePanel: true,
     lessonTitle: '',
