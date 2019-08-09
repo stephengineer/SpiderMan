@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/zhongqi1112/spider/blob/master/src/assets/spiderManPeace.png?raw=true" alt="Spider logo"></p>
+<p align="center"><img src="https://github.com/zhongqi1112/spider/blob/master/src/assets/spiderManPeace.png" alt="Spider logo"></p>
 
 <p align="center">
   <img src="https://img.shields.io/github/package-json/v/zhongqi1112/spider" alt="Version">
