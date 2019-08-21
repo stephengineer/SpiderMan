@@ -1,22 +1,22 @@
 
-<p align="center"><img src="https://github.com/zhongqi1112/spider/blob/master/src/assets/spiderManPeace.png" alt="Spider logo"></p>
+<p align="center"><img src="https://github.com/zhongqi1112/Spider-Man/blob/master/src/assets/spiderManPeace.png" alt="Spider-Man logo"></p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/package-json/v/zhongqi1112/spider" alt="Version">
-  <img src="https://img.shields.io/github/repo-size/zhongqi1112/spider" alt="Repo size">
-  <a href="https://github.com/zhongqi1112/spider/issues"><img src="https://img.shields.io/github/issues-raw/zhongqi1112/spider" alt="Open issues"></a>
-  <a href="https://zhongqi1112.github.io/spider"><img src="https://img.shields.io/website/https/github.com/zhongqi1112/spider" alt="Website"></a>
+  <img src="https://img.shields.io/github/package-json/v/zhongqi1112/Spider-Man" alt="Version">
+  <img src="https://img.shields.io/github/repo-size/zhongqi1112/Spider-Man" alt="Repo size">
+  <a href="https://github.com/zhongqi1112/Spider-Man/issues"><img src="https://img.shields.io/github/issues-raw/zhongqi1112/Spider-Man" alt="Open issues"></a>
+  <a href="https://zhongqi1112.github.io/Spider-Man"><img src="https://img.shields.io/website/https/github.com/zhongqi1112/Spider-Man" alt="Website"></a>
   <br>
-  <img src="https://img.shields.io/github/package-json/keywords/zhongqi1112/spider" alt="Keywords">
+  <img src="https://img.shields.io/github/package-json/keywords/zhongqi1112/Spider-Man" alt="Keywords">
 </p>
 
-<h2 align="center">Supporting Spider (Man)</h2>
+<h2 align="center">Supporting Spider-Man</h2>
 
-Welcome to Star, Fork or make Pull Request to build Spider up to be a progressive MOOC framework! Thanks!
+Welcome to Star, Fork or make Pull Request to build Spider-Man up to be a progressive MOOC framework! Thanks!
 
 ## Introduction
 
-Spider (Man) is a [VueJs](https://vuejs.org/) project to redesign [Udacity](https://www.udacity.com/) learning screen for [HCI](http://omscs6750.gatech.edu/) final project.
+Spider-Man is a Signal Page Application in [VueJs](https://vuejs.org/) framework to redesign the MOOC ([Udacity](https://www.udacity.com/)) course screen with multiply new functionalities with [Youtube Player](https://developers.google.com/youtube/iframe_api_reference), [VisJs](https://visjs.org/) and [Vuetify](https://vuetifyjs.com/en/) APIs.
 
 
 | Project | Status | Description |
