@@ -153,7 +153,7 @@ export default {
     })
   },
   data: () => ({
-    welcomeLabel: 'Welcome to Spider Man',
+    welcomeLabel: 'Welcome to Spider-Man',
     enterButtonLabel: 'Start',
     homePage: true,
     sidePanel: true,
