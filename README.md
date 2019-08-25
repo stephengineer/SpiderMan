@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/package-json/keywords/zhongqi1112/Spider-Man" alt="Keywords">
 </p>
 
-<h2 align="center">Supporting Spider-Man</h2>
+<h2 align="center">Spider-Man</h2>
 
 Welcome to Star, Fork or make Pull Request to build Spider-Man up to be a progressive MOOC framework! Thanks!
 
