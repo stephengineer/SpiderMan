@@ -1,22 +1,22 @@
 
-<p align="center"><img src="https://github.com/zhongqi1112/Spider-Man/blob/master/src/assets/spiderManPeace.png" alt="Spider-Man logo"></p>
+<p align="center"><img src="https://github.com/zhongqi1112/SpiderMan/blob/master/src/assets/spiderManPeace.png" alt="SpiderMan logo"></p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/package-json/v/zhongqi1112/Spider-Man" alt="Version">
-  <img src="https://img.shields.io/github/repo-size/zhongqi1112/Spider-Man" alt="Repo size">
-  <a href="https://github.com/zhongqi1112/Spider-Man/issues"><img src="https://img.shields.io/github/issues-raw/zhongqi1112/Spider-Man" alt="Open issues"></a>
-  <a href="https://zhongqi1112.github.io/Spider-Man"><img src="https://img.shields.io/website/https/github.com/zhongqi1112/Spider-Man" alt="Website"></a>
+  <img src="https://img.shields.io/github/package-json/v/zhongqi1112/SpiderMan" alt="Version">
+  <img src="https://img.shields.io/github/repo-size/zhongqi1112/SpiderMan" alt="Repo size">
+  <a href="https://github.com/zhongqi1112/SpiderMan/issues"><img src="https://img.shields.io/github/issues-raw/zhongqi1112/SpiderMan" alt="Open issues"></a>
+  <a href="https://zhongqi1112.github.io/SpiderMan"><img src="https://img.shields.io/website/https/github.com/zhongqi1112/SpiderMan" alt="Website"></a>
   <br>
-  <img src="https://img.shields.io/github/package-json/keywords/zhongqi1112/Spider-Man" alt="Keywords">
+  <img src="https://img.shields.io/github/package-json/keywords/zhongqi1112/SpiderMan" alt="Keywords">
 </p>
 
-<h2 align="center">Spider-Man</h2>
+<h2 align="center">SpiderMan</h2>
 
-Welcome to Star, Fork or make Pull Request to build Spider-Man up to be a progressive MOOC framework! Thanks!
+Welcome to Star, Fork or make Pull Request to build SpiderMan up to be a progressive MOOC framework! Thanks!
 
 ## Introduction
 
-Spider-Man is a Signal Page Application in [VueJs](https://vuejs.org/) framework to redesign the MOOC ([Udacity](https://www.udacity.com/)) course screen with multiply new functionalities with [Youtube Player](https://developers.google.com/youtube/iframe_api_reference), [VisJs](https://visjs.org/) and [Vuetify](https://vuetifyjs.com/en/) APIs.
+SpiderMan is a Signal Page Application in [VueJs](https://vuejs.org/) framework to redesign the MOOC ([Udacity](https://www.udacity.com/)) course screen with multiply new functionalities with [Youtube Player](https://developers.google.com/youtube/iframe_api_reference), [VisJs](https://visjs.org/) and [Vuetify](https://vuetifyjs.com/en/) APIs.
 
 
 | Project | Status | Description |
