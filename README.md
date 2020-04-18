@@ -50,29 +50,25 @@ SpiderMan is a Signal Page Application in [VueJs](https://vuejs.org/) framework 
 [lodash-package]: https://npmjs.com/package/lodash
 
 ## Project setup
-```
+```sh
+# Install package
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
+# Compiles and hot-reloads for development
 npm run serve
-```
-
-### Compiles and minifies for production
-```
+# Compiles and minifies for production
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
+## Features
+<p align="center"><img src="https://github.com/zhongqi1112/SpiderMan/blob/master/src/assets/homePage.png" alt="homePage"></p>
 
-### Lints and fixes files
-```
-npm run lint
-```
+1. Bookmark reviewed lessons.
+2. Toggle coding or note functionality.
+3. Multiple coding languages selection.
+4. Bookmark important video time on the timeline.
+5. Compile/Submit/Download coding or node to local storage.
+
+Try the interface online: https://zhongqi1112.github.io/SpiderMan/
 
 ## License
 
