@@ -60,7 +60,7 @@ npm run build
 ```
 
 ## Features
-<p align="center"><img src="https://github.com/zhongqi1112/SpiderMan/blob/master/src/assets/homePage.png" alt="homePage"></p>
+<p align="center"><img src="https://github.com/stephengineer/SpiderMan/blob/master/src/assets/homePage.png" alt="homePage"></p>
 
 1. Bookmark reviewed lessons.
 2. Toggle coding or note functionality.
@@ -68,7 +68,7 @@ npm run build
 4. Bookmark important video time on the timeline.
 5. Compile/Submit/Download coding or node to local storage.
 
-Try the interface online: https://zhongqi1112.github.io/SpiderMan/
+Try the interface online: https://stephengineer.github.io/SpiderMan/
 
 ## License
 
